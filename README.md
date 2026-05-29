@@ -12,7 +12,7 @@
     <a href="mailto:anjosruanp@gmail.com">
         <img src="https://img.shields.io/badge/Email-1A1614?style=for-the-badge&logo=gmail&logoColor=fffff" />
     </a>
-    <a href="https://www.ruananjosdev.com/">
+    <a href="https://www.ruananjosdev.com.br/">
         <img src="https://img.shields.io/badge/Website-322C27?style=for-the-badge&logo=About.me&logoColor=fffff" />
     </a>
 </p>
