@@ -44,11 +44,6 @@
 
 ---
 
-<img align="center" src="https://newojima-grs-20230109.vercel.app/api/top-langs?username=AnjosR&layout=compact&text_color=FFFFFF&icon_color=D8AE62&hide_border=true&locale=en&hide_title=false&title_color=FDECB2&include_all_commits=true&card_width=445&langs_count=11&hide=c%23,powershell,shaderlab,hlsl,makefile,jupyter%20notebook,python,html,css,shell,batchfile,less,liquid,hack,scss&bg_color=1A1614,322C27,9C7844" alt="Top Languages" width="500px"/>
-
-<br>
-<br>
-
 <img align="center" src="https://newojima-grs-20230109.vercel.app/api?username=AnjosR&rank_icon=github&show_icons=true&locale=en&title_color=FDECB2&text_color=FFFFFF&icon_color=D8AE62&hide_border=true&hide_title=false&count_private=true&include_all_commits=true&card_width=495&disable_animations=true&bg_color=1A1614,322C27,9C7844" alt="GitHub Stats" width="500px"/>
 
 <br>
